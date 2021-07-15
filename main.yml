@@ -1,4 +1,7 @@
 ---
 - name: installing apache webserver
 - name: creating httpd.conf from template.
+- name: creating virtualhost configuration.
+- name: creating documentroot.
+- name: created some sample test files
 - name: restarting/enabling apache webserver
