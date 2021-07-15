@@ -1,6 +1,7 @@
 ---
 - name: installing apache webserver
 - name: installing php fpm package.
+- name: tuning php-fpm
 - name: creating httpd.conf from template.
 - name: creating virtualhost configuration.
 - name: creating documentroot.
