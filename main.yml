@@ -1,3 +1,4 @@
 ---
 - name: installing apache webserver
+- name: creating httpd.conf from template.
 - name: restarting/enabling apache webserver
